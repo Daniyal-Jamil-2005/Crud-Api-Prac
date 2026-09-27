@@ -1,4 +1,4 @@
-# Task API (Express)
+# To-Do list  (Express)
 
 Simple in-memory CRUD Task API using Express and Swagger UI.
 
